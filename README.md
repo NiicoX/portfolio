@@ -50,5 +50,5 @@ En esta organización vas a encontrar:
 
 ## 🌍 Contacto
 - 📧 Email: luiisgoomez2018@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/niicox](#)  
-- 🐙 GitHub: [github.com/NiicoX](#)
+- 💼 LinkedIn: [linkedin.com/in/niicox](https://www.linkedin.com/in/NiicoX/)  
+- 🐙 GitHub: [github.com/NiicoX](https://github.com/NiicoX)
