@@ -23,7 +23,7 @@ Permite la gestión de órdenes de compra para un sistema de e-commerce.
 
 ---
 
-### 🌱 [LaQuimeraWEB](https://github.com/GL-s-Software-Development/La_Quimera_SA-WEB)
+### 🌱 [La Quimera WEB](https://github.com/GL-s-Software-Development/La_Quimera_SA-WEB)
 Este proyecto es la página web oficial de La Quimera S.A, una empresa dedicada a la siembra y cultivo de caña de azúcar, trigo, soja y zapallo, además de ofrecer servicios de pulverización y cosecha de caña de azúcar.
 El sitio fue desarrollado con Blazor WebAssembly utilizando .NET 7, pensado para ser responsivo, moderno y desplegado de manera sencilla.
 
@@ -31,7 +31,7 @@ El sitio fue desarrollado con Blazor WebAssembly utilizando .NET 7, pensado para
 
 ---
 
-### 👨‍⚕️ [LaMutualidadTuc](https://github.com/GL-s-Software-Development/MutualProyect)
+### 👨‍⚕️ [La Mutualidad Tuc](https://github.com/GL-s-Software-Development/MutualProyect)
 Sistema de escritorio desarrollado en **Windows Form (.NET Framework)** con arquitectura **Common, Data Access, Domain, Presentation**, diseñado para gestionar afiliaciones (baja y alta) en un sistema de Cobertura de Seguridad social.
 
 **Tecnologías:** C# (.NET Framework 4.7.2), MySQL
